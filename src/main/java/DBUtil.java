@@ -4,8 +4,10 @@ import java.sql.SQLException;
 
 public class DBUtil {
     private static final String mySqlUser = "root";
-    private static final String mySqlPwd = "xxPASSWDxx";
-    private static final String mySQLCS = "jdbc:mysql://localhost:xxPORTNOxx/xxDBNAMExx";
+    private static final String mySqlPwd = "NoTFoRYOurEyeZ";
+    private static final String mySQLCS = "jdbc:mysql://localhost:3306/portal";
+    //private static final String mySqlPwd = "xxPASSWDxx";    // xxPASSWDxx"
+    //private static final String mySQLCS = "jdbc:mysql://localhost:xxPORTNOxx/xxDBNAMExx";   // xxPORTNOxx/xxDBNAMExx"
 
     public static Connection getConnection(DBType dbType) throws SQLException {
 
