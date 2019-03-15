@@ -4,7 +4,7 @@ import java.sql.SQLException;
 
 public class DBUtil {
     private static final String mySqlUser = "root";
-    private static final String mySqlPwd = "NoTFoRYOurEyeZ";
+    private static final String mySqlPwd = "!9PbaeCYbx4!";
     private static final String mySQLCS = "jdbc:mysql://localhost:3306/portal";
     //private static final String mySqlPwd = "xxPASSWDxx";    // xxPASSWDxx"
     //private static final String mySQLCS = "jdbc:mysql://localhost:xxPORTNOxx/xxDBNAMExx";   // xxPORTNOxx/xxDBNAMExx"
